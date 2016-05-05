@@ -1,0 +1,2 @@
+# mylaravelproyect
+basic laravel crud
